@@ -37,8 +37,9 @@ class About extends Component {
               <Link url="http://viagogo.co.uk/" openInNewTab>viagogo</Link>. 
               Both my professional
               and academic backgrounds have been predominantly in web
-              application development, although my thesis was focused on
-              blockchain technology and decentralized applications.
+              application development, however I also have experience with 
+              cyber security, blockchain technology, decentralized applications 
+              and more.
             </p>
             <p>
               When I am not at work or doing a personal project, you may find

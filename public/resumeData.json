@@ -4,13 +4,12 @@
     "occupation": "Full Stack Software Engineer and a graduate from King's College London",
     "description": "I have 2 years of work experience specializing in the React + Microsoft stack. My interests are in Software Architecture, Microservices, Performance Optimisation, Human-Computer Interaction and clean UX",
     "image": "profilepic.jpg",
-    "contactmessage": "Here is where you should write your message to readers to have them get in contact with you.",
-    "email": "vlad@hotfixprogrammer.com",
+    "contactmessage": "You can always shoot me an email or message if you're interested in my work or you would just like to talk ¬‿¬.",
+    "email": "nedelescu.vlad@gmail.com",
     "phone": "+33605531628",
     "address": {
       "city": "Paris",
-      "state": "Ile de France",
-      "zip": "75013"
+      "state": "Ile de France"
     },
     "website": "https://www.hotfixprogrammer.com",
     "resumedownload": "https://hotfixprogrammer.com",
@@ -27,104 +26,98 @@
     ]
   },
   "resume": {
-    "skillmessage": "Here you can create a short write-up of your skills to show off to employers",
+    "skillmessage": "I always like exploring new technologies and learning ways to innovate. Here are some of the technologies that I feel really make a difference for me.",
     "education": [{
-        "school": "University?",
-        "degree": "Masters in Beer tasting",
-        "graduated": "April 2007",
-        "description": "Describe your experience at school, what you learned, what useful skills you have acquired etc."
+        "school": "King's College London",
+        "degree": "BSc Computer Science with a Year in Industry",
+        "graduated": "May 2019",
+        "description": [
+          "I attended King's College London for 4 years, taking a Bachelor's in Computer Science with an included sandwich year. This was a very hands-on course that focused on theory, thorough practice and real-life experience.",
+          "During this course I learned the basics of software engineering starting from data structures and algorithms, databases and desktop GUIs, and achieved a much higher level of education through courses in Software Architecture, Security, Operating Systems, multiple group projects in which we built web apps for clients, a dissertation in which I built my own decentralized application, and many more. I was a full-time employee of viagogo during my sandwich year, and I would sometimes also take the opportunity to attend coding competitions (\"hackathons\")."
+        ]
       },
       {
-        "school": "School #1 Maybe College?",
-        "degree": "What did you study 101",
-        "graduated": "March 2003",
-        "description": "Describe your experience at school, what you learned, what useful skills you have acquired etc."
+        "school": "National College of Computer Science 'Grigore Moisil'",
+        "degree": "Romanian Baccalaureate Diploma - Computer Science, Maths",
+        "graduated": "June 2015",
+        "description": "This is where I laid the foundations that I built upon later on in university. These were the years in which I first learned C++ programming and developed a knack for complex algorithms, learned how to analyze time complexity, built my first website, and participated in the yearly app-building coding competition."
       }
     ],
     "work": [{
-        "company": "Awesome Design Studio",
-        "title": "Senior UX God ",
-        "years": "March 2010 - Present",
-        "description": "Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
+        "company": "Shift Technology",
+        "title": "Software Engineer",
+        "years": "June 2019 - Present",
+        "description": "My time at Shift is spent working as a Fullstack Software Engineer. Here I have had the chance to get my hands dirty on the User Interface part of Force, Shift's Fraud Detection Solution. On the backend I am working with .NET, SQL and ElasticSearch, while my frontend components are implemented with React (including hooks) and redux. I have implemented SSO login from scratch and oversaw its integration with client systems, carried performance optimisation work on certain components and improved their loading times exponentially, developed new components to aid in the fraud investigation process and conducted interviews with candidates."
       },
       {
-        "company": "Super Cool Studio",
-        "title": "Junior bug fixer",
-        "years": "March 2007 - February 2010",
-        "description": "Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
+        "company": "Viagogo",
+        "title": "Junior Software Engineer",
+        "years": "June 2017 - September 2018",
+        "description": "My 3rd year of university was a sandwich year, which means that I needed to find a job for a year. I spent the year working at viagogo, in London, as a junior Fullstack Software Engineer and I had a great time. I learned a lot about high-traffic B2C websites, scalability and performance. I also had the luck to be a part of some of the bigger projects going on at the time: implementing Apple Pay as a payment method, doing business-critical compliance work, writing production code for the main website every day, introducing React components on the website and developing a load of other internal tools at viagogo. I worked mostly in .NET and JS + jQuery at viagogo and it was during this time that I discovered I had a passion for JavaScript."
       }
     ],
     "skills": [{
         "name": "Git",
-        "level": "60%"
+        "imgSrc": "/images/icons/Git_small.png",
+        "alt": "Git",
+        "description": "I've used Git in all my university group projects, and to this day I have used it in every job I've been in and every personal project I've done. It's saved me from trouble plenty of times when working in teams of any size."
       },
       {
-        "name": "Illustrator",
-        "level": "55%"
+        "name": "React",
+        "imgSrc": "/images/icons/React_small.webp",
+        "alt": "React",
+        "description": "I started using React in my last year of university and I found its component paradigm to fit very well with my way of thinking about user interfaces. I've recently taken up using hooks for production code as well, although I still have a bit of a learning curve to go through there."
       },
       {
-        "name": "ReactJs",
-        "level": "50%"
+        "name": ".NET Core",
+        "imgSrc": "/images/icons/NET_Core_Logo_small.png",
+        "alt": ".NET Core",
+        "description": ".NET Core would be my default framework choice for any web app I would start today. While I do think it's a bit slower to code in than NodeJS or Ruby on Rails for example, it is backed by Microsoft, it runs cross-platform, it is time-tested and I love C#!"
       },
       {
-        "name": "CSS",
-        "level": "90%"
-      },
-      {
-        "name": "HTML5",
-        "level": "80%"
-      },
-      {
-        "name": "VueJs",
-        "level": "50%"
-      },
-      {
-        "name": "MongoDB",
-        "level": "80%"
+        "name": "Docker",
+        "imgSrc": "/images/icons/docker.png",
+        "alt": "Docker",
+        "description": "I appreciate Docker the most for the time it saves me in development. Not having to worry about how to run my application gives me more time to worry about what matters; and as more components (databases, APIs) are added to the app, the more valuable Docker becomes."
       }
     ]
   },
   "portfolio": {
+    "toMention": ["gitcoin", "hackathons", "eosask"],
     "projects": [{
-        "title": "Canadian Wanderlust",
-        "category": "My Travel Blog for my post-university travels",
-        "image": "canadian-wanderlust.jpg",
-        "url": "https://www.canadianwanderlust.com"
+        "title": "Modulect",
+        "category": "(KCL) Built a tool that helps students pick their optional courses at KCL; this was a university project",
+        "image": "kcl.jpg",
+        "url": "https://modulect.herokuapp.com/"
       },
       {
-        "title": "Fury Fighting Gear",
-        "category": "(offline now) A fighting gear company I started",
-        "image": "fury-fighting-gear.jpg",
-        "url": "http://www.timbakerdev.com"
+        "title": "Funder Dashboard",
+        "category": "(MVP) Built a dashboard for people funding work through Gitcoin",
+        "image": "gitcoin.jpg",
+        "url": "https://github.com/gitcoinco/web/pull/1351"
       },
       {
-        "title": "Original Thai Food",
-        "category": "Website I built for a restaurant I like in Thailand",
-        "image": "original-thai-food.jpg",
-        "url": "http://www.timbakerdev.com/originalthaifood.github.io"
+        "title": "Real Time Disaster Tracker",
+        "category": "(OxfordHack 2018) Built a real-time tracker for worldwide catastrophes",
+        "image": "oxfordhack.png",
+        "url": "https://devpost.com/software/real-time-disaster-tracking"
       },
       {
-        "title": "Resume Website",
-        "category": "A React based resume website template",
-        "image": "resume-website.jpg",
-        "url": "http://www.timbakerdev.com"
-      },
-      {
-        "title": "Smirkspace",
-        "category": "(MVP Only) A React and Meteor based chat University project.",
-        "image": "smirkspace.jpg",
-        "url": "http://www.smirkspace.com"
+        "title": "Eosask",
+        "category": "(KCL) Built a blockchain based QnA Forum that allows bounties to be given to respondents; Disseration",
+        "image": "eos.png",
+        "url": "https://github.com/vlad2689?tab=repositories&q=eosask&type=&language="
       }
     ]
   },
   "testimonials": {
     "testimonials": [{
-        "text": "Here you should write some nice things that someone has said about you. No lies though, employers can tell when you are lying.",
-        "user": "Kareem Abdul Jabbar"
+        "text": "",
+        "user": ""
       },
       {
-        "text": "That Tim Baker must be one of the most brilliant developers I've ever met! It is amazing that nobody has hired him yet. Hey you, you should hire this guy, he may be fresh out of University and have zero on the job experience but I am confident that he will be one of your best developers in no time!",
-        "user": "Steve Wozniak... impersonator"
+        "text": "",
+        "user": ""
       }
     ]
   }
