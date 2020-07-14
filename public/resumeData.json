@@ -12,7 +12,7 @@
       "state": "Ile de France"
     },
     "website": "https://www.hotfixprogrammer.com",
-    "resumedownload": "https://hotfixprogrammer.com",
+    "resumedownload": "https://drive.google.com/uc?export=download&id=1IliVbXemLufvtumHgHIniSoBrB7ZPvxg",
     "social": [{
         "name": "linkedin",
         "url": "https://www.linkedin.com/in/vlad-n-a43986195/",
@@ -83,7 +83,6 @@
     ]
   },
   "portfolio": {
-    "toMention": ["gitcoin", "hackathons", "eosask"],
     "projects": [{
         "title": "Modulect",
         "category": "(KCL) Built a tool that helps students pick their optional courses at KCL; this was a university project",
